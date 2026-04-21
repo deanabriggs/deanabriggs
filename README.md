@@ -2,13 +2,13 @@
 
 Hello, GitHub! 👋
 
-I'm Deana, a student at Brigham Young University-Idaho interested in data science and web development. Welcome to my GitHub profile!
+I'm Deana, a recent graduate of Brigham Young University-Idaho interested in everything software. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🌱 I'm currently learning Oracle, PostgreSQL, and .NET.
-- 🎯 My goals are to create fullstack software applications for small businesses.
-- 💬 Ask me about my CRM project.
+- 🌱 I'm currently working on learning React
+- 🎯 My goals are to migrate Access databases to SQL Server
+- 💬 Ask me about my CRM project
 
 ## Technologies and Tools
 
@@ -31,8 +31,11 @@ I'm Deana, a student at Brigham Young University-Idaho interested in data scienc
 
 ### 🗄️ Databases
 - MongoDB  
-- Firebase  
-- SQL / Relational Databases  
+- Firebase
+- SQLite
+- MySQL
+- PostgreSQL
+- Orcale
 
 ### 🧪 Testing & Quality
 - Unit testing (Jest, PyTest)
@@ -67,7 +70,7 @@ I'm Deana, a student at Brigham Young University-Idaho interested in data scienc
 - Render (API hosting)
 - Firebase Hosting
 - Azure basics
-- CI/CD familiarity (GitHub Actions – optional to add)
+- CI/CD familiarity
 
 ### 📋 Workflow & Collaboration
 - Agile & Scrum
