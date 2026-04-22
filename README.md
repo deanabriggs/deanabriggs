@@ -7,7 +7,7 @@ I'm Deana, a recent graduate of Brigham Young University-Idaho interested in eve
 ## About Me
 
 - 🌱 I'm currently working on learning React
-- 🎯 My goals are to migrate Access databases to SQL Server
+- 🎯 My goals are to migrate Access databases to SQL Server and create integrated web apps
 - 💬 Ask me about my CRM project
 
 ## Technologies and Tools
